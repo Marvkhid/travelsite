@@ -13,7 +13,7 @@ const Navbar = () => {
     <nav className="flexBetween max-container padding-container relative z-30 py-5">
       {/* Logo */}
       <Link href="/">
-        <Image src="hiLink-logo.svg" alt="logo" width={74} height={29} style={{ width: 'auto', height: 'auto' }} />
+        <Image src="hilink-logo.svg" alt="logo" width={74} height={29} style={{ width: 'auto', height: 'auto' }} />
       </Link>
 
       {/* Desktop Links */}
